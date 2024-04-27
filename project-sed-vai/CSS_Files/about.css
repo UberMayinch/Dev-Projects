@@ -1,0 +1,73 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  width: 90%;
+  margin: auto;
+  text-align: justify;
+  font-size: 1.1em;
+  line-height: 1.5em;
+  background-color: #000000;
+  border: 10px solid black;
+  /* padding-top: 25%; */
+  /* opacity: 50%; */
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+.Team{
+  display: flex;
+}
+.Khooshi{
+  align-items: left;
+}
+
+.Chinmay{
+  flex: right;
+  translate: 25px;
+}
+
+.fpic{
+  height: 300px;
+  width: 300px;
+}
+
+
+
+body {
+  margin-top: 5%;
+  /* background: linear-gradient(45deg, #000000, #361717); */
+  color: white;
+}
+
+
+h2,
+h3 {
+  color: rgb(142, 103, 103);
+}
+
+.artist-info {
+  display: flex;
+  padding: 20px;
+  /* background-color: #361717; */
+  color: white;
+}
+
+.artist-info img {
+  width: 200px;
+  padding: 10px;
+}
+
